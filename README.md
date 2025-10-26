@@ -1,33 +1,35 @@
 # Task Management API
 
 ## Overview
-A simple backend REST API to manage tasks, similar to a to-do list.  
-You can create, view, update, and delete tasks using HTTP requests.
+This is a RESTful backend API for managing tasks, like a to-do list.  
+Users can add, view, update, and delete tasks using HTTP requests.
 
 ## Tech Stack
-- Node.js  
-- Express.js  
-- JWT Authentication  
+- Node.js
+- Express.js
+- JWT for authentication
 
-## Fetures
-Create Task:POST/tasks   
-Get All Tasks:GET/tasks 
-Update Task:PUT/tasks/:id
-Delete Task:DELETE/tasks/:id
+## API Endpoints
+- *Add Task:* POST /tasks  
+- *View All Tasks:* GET /tasks  
+- *Update Task:* PUT /tasks/:id  
+- *Delete Task:* DELETE /tasks/:id  
 
-## How to Run
-1. Go to the project folder
-   cd task-management-api
-2. Install dependencies:
-   npm install
-3. Start the server
-   npm start
-4. Open Thunder Client or Postman to test CRUD routes:
-   - GET /tasks
-   - POST /tasks
-   - PUT /tasks/:id
-   - DELETE /tasks/:id
+## Getting Started
+To run the project, navigate to the project folder and run the following commands:
+```
+cd task-management-api
+npm install
+npm start
+```
+After the server is running, test the API routes using Postman or Thunder Client:
+```
+GET /tasks
+POST /tasks
+PUT /tasks/:id
+DELETE /tasks/:id
+```
 
 ## Notes
-- The tasks will reset when the server restarts.
-- Each task contains a unique ID, a title, and a description.
+- Data will reset whenever the server restarts.  
+- Each task has a *unique ID, **title, and **description*.
