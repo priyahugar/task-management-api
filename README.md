@@ -32,4 +32,5 @@ DELETE /tasks/:id
 
 ## Notes
 - Data will reset whenever the server restarts.  
-- Each task has a *unique ID, **title, and **description*.
+- Each task has a *unique ID, title, and description.
+
