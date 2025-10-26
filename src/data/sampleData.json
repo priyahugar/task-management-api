@@ -1,0 +1,112 @@
+[
+  {
+    "taskId": "1",
+    "title": "Finish homework",
+    "description": "Complete math and science homework",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-10-25T18:00:00Z",
+    "tags": ["school", "urgent"],
+    "createdAt": "2025-10-20T08:00:00Z",
+    "updatedAt": "2025-10-20T08:00:00Z"
+  },
+  {
+    "taskId": "2",
+    "title": "Grocery shopping",
+    "description": "Buy vegetables and fruits",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2025-10-22T12:00:00Z",
+    "tags": ["home"],
+    "createdAt": "2025-10-20T08:05:00Z",
+    "updatedAt": "2025-10-20T08:05:00Z"
+  },
+  {
+    "taskId": "3",
+    "title": "Call mom",
+    "description": "Check in and chat for 15 minutes",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2025-10-21T20:00:00Z",
+    "tags": ["family"],
+    "createdAt": "2025-10-20T09:00:00Z",
+    "updatedAt": "2025-10-20T09:00:00Z"
+  },
+  {
+    "taskId": "4",
+    "title": "Read a book",
+    "description": "Read 'The Alchemist' for 1 hour",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2025-10-23T21:00:00Z",
+    "tags": ["leisure"],
+    "createdAt": "2025-10-20T09:30:00Z",
+    "updatedAt": "2025-10-20T09:30:00Z"
+  },
+  {
+    "taskId": "5",
+    "title": "Workout",
+    "description": "Morning 30-minute exercise",
+    "status": "completed",
+    "priority": "high",
+    "dueDate": "2025-10-21T07:00:00Z",
+    "tags": ["health"],
+    "createdAt": "2025-10-20T10:00:00Z",
+    "updatedAt": "2025-10-20T10:00:00Z"
+  },
+  {
+    "taskId": "6",
+    "title": "Pay bills",
+    "description": "Electricity and internet bills",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-10-24T17:00:00Z",
+    "tags": ["finance"],
+    "createdAt": "2025-10-20T10:30:00Z",
+    "updatedAt": "2025-10-20T10:30:00Z"
+  },
+  {
+    "taskId": "7",
+    "title": "Team meeting",
+    "description": "Discuss project updates",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2025-10-21T14:00:00Z",
+    "tags": ["work"],
+    "createdAt": "2025-10-20T11:00:00Z",
+    "updatedAt": "2025-10-20T11:00:00Z"
+  },
+  {
+    "taskId": "8",
+    "title": "Clean room",
+    "description": "Organize wardrobe and vacuum floor",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": "2025-10-22T10:00:00Z",
+    "tags": ["home"],
+    "createdAt": "2025-10-20T11:30:00Z",
+    "updatedAt": "2025-10-20T11:30:00Z"
+  },
+  {
+    "taskId": "9",
+    "title": "Write blog post",
+    "description": "Complete draft for personal blog",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2025-10-23T19:00:00Z",
+    "tags": ["work", "creative"],
+    "createdAt": "2025-10-20T12:00:00Z",
+    "updatedAt": "2025-10-20T12:00:00Z"
+  },
+  {
+    "taskId": "10",
+    "title": "Plan weekend trip",
+    "description": "Decide destination and book hotel",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2025-10-24T20:00:00Z",
+    "tags": ["leisure", "travel"],
+    "createdAt": "2025-10-20T12:30:00Z",
+    "updatedAt": "2025-10-20T12:30:00Z"
+  }
+]
